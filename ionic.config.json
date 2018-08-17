@@ -1,0 +1,7 @@
+{
+  "name": "googleMapsDistance",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
